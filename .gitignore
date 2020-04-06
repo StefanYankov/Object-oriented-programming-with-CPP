@@ -6,3 +6,12 @@
 *.filters
 *.user
 *.pdf
+*.log
+*.obj
+*.tlog
+*.db
+*.ipch
+*.exe
+*.ilk
+*.pdb
+*.idb
